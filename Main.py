@@ -1,10 +1,8 @@
 from linkedlist import LinkedList
 from node import Node
-
+from data import *
 def main():
-    llist = LinkedList()
-    first_node = Node("a")
-    llist.head = first_node
+    llist=LinkedList(cities)
     print(repr(llist))
 
 if __name__ == "__main__":
