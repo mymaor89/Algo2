@@ -1,2 +1,2 @@
 cities = ["Jerusalem","Tel-Aviv","BeerSheva","Eilat","Tiberious","Ashdod","Herzeliya"]
-roads = [["Eilat","BeerSheva"],["Tel-Aviv","Herzeliya"],["Herzeliya","Haifa"],["Haifa","Tiberious"]]
+roads = [["Eilat","BeerSheva"],["Tel-Aviv","Herzeliya"],["Tel-Aviv","Ashdod"],["Herzeliya","Haifa"],["Haifa","Tiberious"],["Jerusalem","Tiberious"],["Jerusalem","Ashdod"],]
